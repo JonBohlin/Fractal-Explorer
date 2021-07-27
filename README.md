@@ -18,7 +18,7 @@ and run it as follows:
 
 java FractalExplorer
 
-A JAR file can be created as follows:
+A JAR file can also be created:
 
 jar cfe FractalExplorer.jar FractalExplorer ./*.class
 
